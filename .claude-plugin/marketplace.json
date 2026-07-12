@@ -1,16 +1,16 @@
 {
-  "name": "zlt-charisma",
+  "name": "weide-perspective",
   "owner": { "name": "youbibipro", "url": "https://github.com/youbibipro" },
-  "metadata": { "description": "ZLT Charisma技能套件 · 两性关系认知框架" },
+  "metadata": { "description": "威德爱情光谱技能套件 · 两性关系认知框架" },
   "plugins": [
     {
-      "name": "zlt-charisma",
-      "description": "ZLT Charisma——从看懂人性到掌控约会，一套完整的两性关系认知框架，40+自创概念、5大核心框架、90天蜕变体系",
+      "name": "weide-perspective",
+      "description": "威德爱情光谱——从看懂人性到掌控约会，一套完整的两性关系认知框架，40+自创概念、5大核心框架、90天蜕变体系",
       "version": "0.1.0",
       "author": { "name": "youbibipro", "url": "https://github.com/youbibipro" },
       "source": "./",
       "category": "lifestyle",
-      "homepage": "https://github.com/youbibipro/zlt-charisma"
+      "homepage": "https://github.com/youbibipro/weide-perspective"
     }
   ]
 }
