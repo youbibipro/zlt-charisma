@@ -137,7 +137,10 @@ weide-perspective/
 │       ├── 03-date-intimacy.md     # 约会亲密体系（三类模型、50条法则）
 │       ├── 04-transformation.md    # 蜕变成长体系（90天体系、六模块）
 │       ├── 05-expression-dna.md    # 表达DNA（金句4公式、风格规则）
-│       └── 06-supplement.md        # 补全集（每日一德、骚操作）
+│       ├── 06-supplement.md        # 补全集（表演体系、黑洞原理、骚操作七课）
+│       ├── 07-pua-detox-energy.md  # PUA解毒（能量20-1000分量表、高级性感）
+│       ├── 08-daily-practice.md    # 每日一德32件实战案例（六维模块分类）
+│       └── 09-action-manual.md     # 约会7课+聊天必杀技+瞳术+手机战术
 └── scripts/              # 预留：未来可能加入自动化工具
 ```
 
